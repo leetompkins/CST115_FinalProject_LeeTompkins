@@ -42,5 +42,9 @@ public abstract class Product implements Comparable{
 	public String compareTo(){
 		return "";
 	}
+	public String compareTo(Product a, Product b) {
+		// TODO Auto-generated method stub
+		return null;
+	}
 	
 }
